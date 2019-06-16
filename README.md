@@ -1,6 +1,6 @@
 ![Screenshot](https://raw.githubusercontent.com/slap-editor/slap/master/screenshot.png)
 
-slap :wave: [![Build Status](https://img.shields.io/travis/slap-editor/slap.svg)](https://travis-ci.org/slap-editor/slap) [![Donate](https://img.shields.io/gratipay/slap.svg)](https://gratipay.com/slap/)
+slap :wave: [![Build Status](https://img.shields.io/travis/kolay-v/slap.svg)](https://travis-ci.org/slap-editor/slap) [![Donate](https://img.shields.io/gratipay/slap.svg)](https://gratipay.com/slap/)
 ====
 
 slap is a Sublime-like terminal-based text editor that strives to make editing
