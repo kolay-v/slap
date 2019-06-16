@@ -1,0 +1,9 @@
+[submodule "base-widget"]
+	path = base-widget
+	url = git@github.com:slap-editor/base-widget.git
+[submodule "text-buffer"]
+	path = text-buffer
+	url = git@github.com:atom/text-buffer.git
+[submodule "editor-widget"]
+	path = editor-widget
+	url = git@github.com:slap-editor/editor-widget.git
